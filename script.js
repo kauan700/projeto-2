@@ -1,4 +1,4 @@
-Kauan de castro
+Kauan de castro 2C
     
 const avanca = document.querySelectorAll('.btn-proximo');
 
