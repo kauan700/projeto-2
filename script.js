@@ -1,4 +1,4 @@
-Kauan de castro 2C
+Kauan de castro 2C 09.10.2024
     
 const avanca = document.querySelectorAll('.btn-proximo');
 
